@@ -22,7 +22,7 @@ File Name	  	       Description
 5.testingdataNB.csv       Excel file of test data used foe Naive Bayes model.
 
 
-          Sequence of running the codes:
+Sequence of running the codes:
 
 1. Please start by opening and running each section individually of the file 'diabholdout.m' then run 'hyperparameter.m'
    section by section for optimization.
