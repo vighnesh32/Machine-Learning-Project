@@ -2,14 +2,8 @@
 
 Steps for running the code scripts.
 
-       SOFTWARE VERSIONS USED:
-MATLAB
-Version: R2021a Update 5 (9.10.0.1739362)
-	 64-bit (Win64)
-	 August 9, 2021
 
-
- File Name	  	       Description
+File Name	  	       Description
 
 1.diabetes.csv            Original data set
 
