@@ -21,6 +21,8 @@ File Name	  	       Description
 
 5.testingdataNB.csv       Excel file of test data used foe Naive Bayes model.
 
+6. report.pdf             Project report
+
 
 Sequence of running the codes:
 
