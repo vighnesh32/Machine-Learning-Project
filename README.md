@@ -1,8 +1,5 @@
 # Machine-Learning-Project
 
-Steps for running the code scripts.
-
-
 File Name and Description
 
 1. diabetes.csv - Original data set
