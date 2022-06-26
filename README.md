@@ -22,8 +22,8 @@ File Name and Description
 
 Sequence of running the codes:
 
-1. Start by opening and running each section individually of the file 'diabholdout.m' then run 'hyperparameter.m'
+1. Start by opening and running each section individually of the file diabholdout.m then run hyperparameter.m
    section by section for optimization.
 
-2. After this for kfold method run file "kfold.m" then run 'hyperparameter.m' for optimization.
+2. After this for kfold method run file kfold.m then run hyperparameter.m for optimization.
 
