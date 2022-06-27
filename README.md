@@ -20,7 +20,7 @@ File Name and Description :
 7. report.pdf - Project report
 
 
-Sequence of running the codes:
+Sequence of running the codes :
 
 1. Start by opening and running each section individually of the file diabholdout.m then run hyperparameter.m
    section by section for optimization.
