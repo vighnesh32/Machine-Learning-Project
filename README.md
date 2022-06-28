@@ -2,7 +2,7 @@
 
 #### File Name and Description :
 
-1. diabetes.csv - Original data set
+1. diabetes.csv - Original data set.
 
 2. diabholdout.m - MATLAB script of descriptive statistics,EDA,partition of original data 
 		          set into train and test sets (holdout method), Decision Tree model training
@@ -17,7 +17,7 @@
 
 6. testingdataNB.csv - Excel file of test data used foe Naive Bayes model.
 
-7. report.pdf - Project report
+7. report.pdf - Project report.
 
 
 #### Sequence of running the codes :
